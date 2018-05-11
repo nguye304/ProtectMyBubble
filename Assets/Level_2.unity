@@ -9476,7 +9476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1c466134f1e6ae49ba9f4514d224f40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 4039179467281740, guid: 9aaa7f9e179e7d94e95f89e6857cc2ee,
+  enemyPrefab: {fileID: 4444512962429028, guid: 9aaa7f9e179e7d94e95f89e6857cc2ee,
     type: 2}
   spawnPoint: {fileID: 519702744}
   timeBetweenWaves: 5
